@@ -1,4 +1,4 @@
-# Frienzo
+# [Frienzo](https://precious-donut-58edba.netlify.app)
 ![Frienzo](https://static.javatpoint.com/blog/images/mern-stack.png)
 
 ##### Hi, I'm Shantanu:
