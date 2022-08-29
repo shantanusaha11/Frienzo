@@ -2,9 +2,9 @@
 ##### Hi, I'm Shantanu:
 
 - 🎓Recent computer science graduate from A.K.T.U
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
+- :test_tube: Finishing up my academic project
+- 🪐 Looking forward to learn blockchain development and machine learning
+- :speech_balloon: Ask me about cybersecurity, full-stack, web, or literally anything!
 - :mailbox: You can reach me with the links below
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shantanusaha101)
