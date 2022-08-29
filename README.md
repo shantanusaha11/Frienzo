@@ -32,3 +32,13 @@
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
+
+
+##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
