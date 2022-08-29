@@ -1,4 +1,5 @@
-(https://edwisor.medium.com/mern-stack-an-ideal-choice-for-development-in-full-stack-edwisor-50d34b73555)
+# Frienzo
+![Frienzo](https://static.javatpoint.com/blog/images/mern-stack.png)
 
 ##### Hi, I'm Shantanu:
 
