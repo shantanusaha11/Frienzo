@@ -12,7 +12,7 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shantanusaha101)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codershantanu101@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-saha-9bb578126/)
-![Discord Shield](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)(https://discord.com/channels/@me)
+![Discord Shield][(https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 ##### Languages I use
 
